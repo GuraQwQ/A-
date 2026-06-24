@@ -177,7 +177,7 @@
     <td align="center">
       <strong>数据面板</strong>
       <br />
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuraQwQ&show_icons=true&include_all_commits=true&locale=cn&hide_border=true&hide_title=true&bg_color=EFFBFF&title_color=0EA5E9&icon_color=38BDF8&text_color=256D85" alt="数据面板" />
+      <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuraQwQ&theme=transparent" alt="数据面板" />
     </td>
     <td align="center">
       <strong>代码结构</strong>
