@@ -201,6 +201,8 @@
 <img src="./images/鲨鲨在纸箱里探头.gif" width="180" alt="鲨鲨在纸箱里探头" />
 <img src="./images/纸箱睡觉.jpg" width="160" alt="纸箱睡觉" />
 
+<strong>好麻烦……暂时没有啦！</strong>
+
 </div>
 
 <br />
