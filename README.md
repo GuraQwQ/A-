@@ -22,7 +22,7 @@
 
 <br />
 
-## 🫧 亚特兰蒂斯档案
+## 亚特兰蒂斯档案
 
 ```typescript
 const 鲨鲨 = {
@@ -79,7 +79,7 @@ const 鲨鲨 = {
 
 <br />
 
-## 🐬 继续看鲨鲨
+## 继续看鲨鲨
 
 <div align="center">
 
@@ -91,7 +91,7 @@ const 鲨鲨 = {
 
 <br />
 
-## 🦈 还是鲨鲨
+## 还是鲨鲨
 
 <div align="center">
 
@@ -104,7 +104,7 @@ const 鲨鲨 = {
 
 <div align="center">
 
-### 🌊 *「亚特兰蒂斯最会写代码的鲨鱼！」* 🦈
+### *「亚特兰蒂斯最会写代码的鲨鱼！」* 🦈
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:7DD3FC,100:EFFBFF&height=90&section=footer" />
 
