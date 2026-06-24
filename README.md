@@ -3,7 +3,7 @@
 # A！！！我是一只鲨鱼！
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=GuraQwQ&style=for-the-badge&color=75D7FF&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=GuraQwQ&style=for-the-badge&color=75D7FF&label=访" />
   <a href="https://github.com/GuraQwQ?tab=followers">
     <img src="https://img.shields.io/github/followers/GuraQwQ?style=for-the-badge&color=BAE6FD&logo=github&logoColor=white&labelColor=38BDF8&label=%E5%85%B3%E6%B3%A8%E8%80%85" />
   </a>
