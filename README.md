@@ -65,6 +65,71 @@
 
 <br />
 
+## 离谱入学经历
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>阶段</th>
+    <th>学校</th>
+    <th>入学理由</th>
+    <th>毕业状态</th>
+  </tr>
+  <tr>
+    <td>幼儿园</td>
+    <td>海绵宝宝菠萝屋幼儿园</td>
+    <td>因为离海很近，适合鲨鲨通勤</td>
+    <td>学会了冒头</td>
+  </tr>
+  <tr>
+    <td>小学</td>
+    <td>家里蹲第一小学</td>
+    <td>主修睡觉头像与纸箱潜伏</td>
+    <td>全勤失败，但很快乐</td>
+  </tr>
+  <tr>
+    <td>初中</td>
+    <td>霍格沃兹魔法学院附属水产班</td>
+    <td>试图学习把 bug 变没</td>
+    <td>魔杖被鲨鲨咬了</td>
+  </tr>
+  <tr>
+    <td>高中</td>
+    <td>哥谭市夜间补习学校</td>
+    <td>学习如何在深夜写代码</td>
+    <td>黑眼圈优秀毕业</td>
+  </tr>
+  <tr>
+    <td>本科</td>
+    <td>蓝翔深海挖掘机与 Git 提交学院</td>
+    <td>进修把坑挖大再填上的技术</td>
+    <td>提交记录开始出现</td>
+  </tr>
+  <tr>
+    <td>研究生</td>
+    <td>密斯卡托尼克大学</td>
+    <td>研究不可名状的 README 排版</td>
+    <td>精神稳定，页面不一定稳定</td>
+  </tr>
+  <tr>
+    <td>博士生</td>
+    <td>亚特兰蒂斯国立大学</td>
+    <td>研究亚特兰蒂斯最会写代码的鲨鱼为什么会写代码</td>
+    <td>论文题目还在水里泡着</td>
+  </tr>
+</table>
+
+<br />
+
+<img src="./images/鲨鲨在纸箱里探头.gif" width="170" alt="鲨鲨在纸箱里探头" />
+<img src="./images/鲨鲨冒头.gif" width="170" alt="鲨鲨冒头" />
+<img src="./images/双手合十表情.jpg" width="130" alt="鲨鲨双手合十" />
+
+</div>
+
+<br />
+
 ## 行为准则
 
 <div align="center">
