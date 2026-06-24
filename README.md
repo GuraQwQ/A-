@@ -3,7 +3,7 @@
 # A！！！我是一只鲨鱼！
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=GuraQwQ&style=for-the-badge&color=75D7FF&label=%E6%B5%B7%E5%BA%95%E8%AE%BF%E5%AE%A2" />
+  <img src="https://komarev.com/ghpvc/?username=GuraQwQ&style=for-the-badge&color=75D7FF&label=VISITORS" />
   <a href="https://github.com/GuraQwQ?tab=followers">
     <img src="https://img.shields.io/github/followers/GuraQwQ?style=for-the-badge&color=BAE6FD&logo=github&logoColor=white&labelColor=38BDF8&label=%E5%85%B3%E6%B3%A8%E8%80%85" />
   </a>
@@ -12,18 +12,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFFBFF,45:BAE6FD,100:38BDF8&height=110&section=header&text=GuraQwQ&fontColor=075985&fontSize=36&animation=twinkling&desc=%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E6%9C%80%E4%BC%9A%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E9%B2%A8%E9%B1%BC&descAlignY=72&descSize=15" />
 
-<table>
-  <tr>
-    <td width="70%">
-      <img src="./images/打招呼大图banner.png" width="620" alt="鲨鲨打招呼" />
-    </td>
-    <td align="center">
-      <img src="./images/鲨鲨wink~.gif" width="160" alt="鲨鲨 wink" />
-      <br />
-      <strong>我只是抄过来的没想到有这么多东西啊！</strong>
-    </td>
-  </tr>
-</table>
+<img src="./images/打招呼大图banner.png" width="760" alt="鲨鲨打招呼" />
+
+<br />
+<br />
+
+<img src="./images/鲨鲨wink~.gif" width="150" alt="鲨鲨 wink" />
+
+<br />
+
+<strong>我只是抄过来的没想到有这么多东西啊！</strong>
 
 </div>
 
@@ -65,7 +63,7 @@
 
 <br />
 
-## 离谱入学经历
+## 深海学籍档案
 
 <div align="center">
 
@@ -130,41 +128,6 @@
 
 <br />
 
-## 行为准则
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>准则</th>
-    <th>执行结果</th>
-  </tr>
-  <tr>
-    <td>可以摸头</td>
-    <td>鲨鲨会短暂进入乖巧模式</td>
-  </tr>
-  <tr>
-    <td>不要戳太用力</td>
-    <td>鲨鲨会当场应激</td>
-  </tr>
-  <tr>
-    <td>不要拽尾巴</td>
-    <td>鲨鲨会开始随机摇晃</td>
-  </tr>
-  <tr>
-    <td>可以投喂</td>
-    <td>寿司、巧克力、星星都可以</td>
-  </tr>
-  <tr>
-    <td>遇到 bug</td>
-    <td>先装傻，再祈祷，最后想到什么就做什么awa</td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
 ## 摸摸许可证
 
 <div align="center">
@@ -209,8 +172,20 @@
 <br />
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GuraQwQ&show_icons=true&include_all_commits=true&locale=cn&hide_border=true&bg_color=EFFBFF&title_color=0EA5E9&icon_color=38BDF8&text_color=256D85&custom_title=%E6%95%B0%E6%8D%AE%E9%9D%A2%E6%9D%BF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuraQwQ&layout=compact&locale=cn&hide_border=true&bg_color=EFFBFF&title_color=0EA5E9&text_color=256D85&langs_count=8&custom_title=%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84" />
+<table>
+  <tr>
+    <td align="center">
+      <strong>数据面板</strong>
+      <br />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuraQwQ&show_icons=true&include_all_commits=true&locale=cn&hide_border=true&hide_title=true&bg_color=EFFBFF&title_color=0EA5E9&icon_color=38BDF8&text_color=256D85" alt="数据面板" />
+    </td>
+    <td align="center">
+      <strong>代码结构</strong>
+      <br />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuraQwQ&layout=compact&locale=cn&hide_border=true&hide_title=true&bg_color=EFFBFF&title_color=0EA5E9&text_color=256D85&langs_count=8" alt="代码结构" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -236,34 +211,34 @@
 
 <table>
   <tr>
-    <th>技能</th>
-    <th>熟练度</th>
-    <th>备注</th>
+    <th>能力领域</th>
+    <th>掌握情况</th>
+    <th>正式说明</th>
   </tr>
   <tr>
-    <td>冒头</td>
-    <td>很熟</td>
-    <td>从纸箱、杯子、海里都能冒</td>
+    <td>环境适应与快速响应</td>
+    <td>稳定发挥</td>
+    <td>能够在纸箱、杯子、深海等多种场景中迅速完成露面与状态切换。</td>
   </tr>
   <tr>
-    <td>转圈</td>
-    <td>很熟</td>
-    <td>转完继续写代码</td>
+    <td>动态展示与节奏控制</td>
+    <td>持续训练</td>
+    <td>具备转圈、摇晃、起舞等多种可视化表达能力，适用于提升页面活跃度。</td>
   </tr>
   <tr>
-    <td>摸头接收</td>
-    <td>看心情</td>
-    <td>开心时可用</td>
+    <td>交互接收与情绪反馈</td>
+    <td>条件触发</td>
+    <td>在摸头、投喂、围观等交互下，可输出无辜、乖巧或应激等反馈状态。</td>
   </tr>
   <tr>
-    <td>应激反应</td>
-    <td>自动触发</td>
-    <td>被戳就启动</td>
+    <td>异常处理与风险规避</td>
+    <td>自动执行</td>
+    <td>遇到 bug 或突发戳戳时，会优先进入装傻、祈祷与继续尝试流程。</td>
   </tr>
   <tr>
-    <td>顶级猎杀</td>
-    <td>自称精通</td>
-    <td>证据见下方</td>
+    <td>深海巡航与长期学习</td>
+    <td>长期进行</td>
+    <td>以“想到什么就做什么awa”为基本原则，持续探索新的 README 表现形式。</td>
   </tr>
 </table>
 
@@ -293,69 +268,12 @@
 
 <br />
 
-## 小剧场
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>镜头</th>
-    <th>画面</th>
-    <th>发生了什么</th>
-  </tr>
-  <tr>
-    <td>第一幕</td>
-    <td><img src="./images/鲨鲨冒头.gif" width="135" alt="鲨鲨冒头" /></td>
-    <td>鲨鲨从海里探头，准备营业</td>
-  </tr>
-  <tr>
-    <td>第二幕</td>
-    <td><img src="./images/摸鲨鲨头.gif" width="135" alt="摸鲨鲨头" /></td>
-    <td>路过的人类开始摸头</td>
-  </tr>
-  <tr>
-    <td>第三幕</td>
-    <td><img src="./images/戳鲨鲨应激.gif" width="115" alt="戳鲨鲨应激" /></td>
-    <td>戳了一下，鲨鲨应激</td>
-  </tr>
-  <tr>
-    <td>第四幕</td>
-    <td><img src="./images/挂着的鲨鲨摇晃.gif" width="185" alt="挂着的鲨鲨摇晃" /></td>
-    <td>鲨鲨被挂起来了，还在摇</td>
-  </tr>
-  <tr>
-    <td>第五幕</td>
-    <td><img src="./images/双手合十表情.jpg" width="125" alt="鲨鲨双手合十" /></td>
-    <td>最后开始祈祷不要出 bug</td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
-## 祈祷不要出 bug
-
-<div align="center">
-
-<img src="./images/双手合十表情.jpg" width="150" alt="鲨鲨双手合十" />
-<img src="./images/敲头表情.jpg" width="150" alt="鲨鲨敲头" />
-<img src="./images/傻子表情.jpg" width="150" alt="鲨鲨傻笑" />
-<img src="./images/装傻.jpg" width="150" alt="鲨鲨装傻" />
-<img src="./images/睡觉头像.jpg" width="150" alt="鲨鲨睡觉" />
-
-</div>
-
-<br />
-
 ## 深海留言板
 
 <div align="center">
 
 <p><strong>这里没有项目，只有鲨鱼。</strong></p>
 <p>今日状态：想到什么就做什么awa。</p>
-<p>如果页面突然变得很热闹，说明鲨鲨又发现了新的图片。</p>
-<p>亚特兰蒂斯最会写代码的鲨鱼，正在假装自己很忙。</p>
 
 </div>
 
